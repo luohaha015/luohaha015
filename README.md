@@ -2,9 +2,15 @@
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">GaussianDreamer (CVPR 2024)</td>
-    <td width="33%" align="center">GSGEN (CVPR 2024)</td>
-    <td width="33%" align="center">Ours</td>
+    <td width="33%" align="center">
+      GaussianDreamer (CVPR 2024)
+    </td>
+    <td width="33%" align="center">
+      GSGEN (CVPR 2024)
+    </td>
+    <td width="33%" align="center">
+      Ours
+    </td>
   </tr>
 </table>
 
