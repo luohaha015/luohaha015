@@ -1,10 +1,12 @@
 # More Comparisons
 
-<div style="display: flex; justify-content: space-between; text-align: center;">
-  <div style="flex: 1; text-align: center;">GaussianDreamer (CVPR 2024)</div>
-  <div style="flex: 1; text-align: center;">GSGEN (CVPR 2024)</div>
-  <div style="flex: 1; text-align: center;">Ours</div>
-</div>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="text-align: center; border: none;">GaussianDreamer (CVPR 2024)</td>
+    <td style="text-align: center; border: none;">GSGEN (CVPR 2024)</td>
+    <td style="text-align: center; border: none;">Ours</td>
+  </tr>
+</table>
 
 <table align="center">
   <!-- 第一行：放置三张图片 -->
