@@ -1,14 +1,14 @@
 # More Comparisons
 
-<table width="100%">
+<table width="660%">
   <tr>
-    <td width="33%" align="center">
+    <td width="220" align="center">
       GaussianDreamer (CVPR 2024)
     </td>
-    <td width="33%" align="center">
+    <td width="220" align="center">
       GSGEN (CVPR 2024)
     </td>
-    <td width="33%" align="center">
+    <td width="220" align="center">
       Ours
     </td>
   </tr>
