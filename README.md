@@ -1,24 +1,24 @@
-## Hi there 👋
-
 # More Comparisons
 
-<div style="display: flex; justify-content: space-between; text-align: center;">
-  <div style="flex: 1;">Ours</div>
-  <div style="flex: 1;">GSGEN (CVPR 2024)</div>
-  <div style="flex: 1;">GaussianDreamer (CVPR 2024)</div>
-</div>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">GaussianDreamer (CVPR 2024)</td>
+    <td style="width: 33%;">GSGEN (CVPR 2024)</td>
+    <td style="width: 33%;">Ours</td>
+  </tr>
+</table>
 
 <table align="center">
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/A_3D_model_of_an_adorable_cottage_with_a_roof.gif" width="220"/>
+      <img src="img/gd4.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen6.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd4.gif" width="220"/>
+      <img src="img/A_3D_model_of_an_adorable_cottage_with_a_roof.gif" width="220"/>
     </td>
   </tr>
      <!-- 第二行：放置唯一的居中文本 -->
@@ -33,13 +33,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/ccc.gif" width="220"/>
+      <img src="img/gd5.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen1.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd5.gif" width="220"/>
+      <img src="img/ccc.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -53,13 +53,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/hhh.gif" width="220"/>
+      <img src="img/gd3.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen4.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd3.gif" width="220"/>
+      <img src="img/hhh.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -73,13 +73,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/fff.gif" width="220"/>
+      <img src="img/gd2.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen3.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd2.gif" width="220"/>
+      <img src="img/fff.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -93,13 +93,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/eee.gif" width="220"/>
+      <img src="img/gd1.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen2.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd1.gif" width="220"/>
+      <img src="img/eee.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -113,13 +113,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/222.gif" width="220"/>
+      <img src="img/gd9.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen7.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd9.gif" width="220"/>
+      <img src="img/222.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -133,13 +133,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/bbb.gif" width="220"/>
+      <img src="img/gd7.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen8.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd7.gif" width="220"/>
+      <img src="img/bbb.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -153,13 +153,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/333.gif" width="220"/>
+      <img src="img/gd11.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen9.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd11.gif" width="220"/>
+      <img src="img/333.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -173,13 +173,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/lll.gif" width="220"/>
+      <img src="img/gd6.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen11.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd6.gif" width="220"/>
+      <img src="img/lll.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -193,13 +193,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/nnn.gif" width="220"/>
+      <img src="img/gd10.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen10.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd10.gif" width="220"/>
+      <img src="img/nnn.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -213,13 +213,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/a_ripe_strawberry.gif" width="220"/>
+      <img src="img/gd12.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen5.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd12.gif" width="220"/>
+      <img src="img/a_ripe_strawberry.gif" width="220"/>
     </td>
   </tr>
   <tr>
@@ -233,13 +233,13 @@
   <!-- 第一行：放置三张图片 -->
   <tr>
     <td align="center">
-      <img src="img/111.gif" width="220"/>
+      <img src="img/gd8.gif" width="220"/>
     </td>
     <td align="center">
       <img src="img/gsgen12.gif" width="220"/>
     </td>
     <td align="center">
-      <img src="img/gd8.gif" width="220"/>
+      <img src="img/111.gif" width="220"/>
     </td>
   </tr>
   <tr>
