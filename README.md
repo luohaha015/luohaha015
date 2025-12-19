@@ -1,6 +1,6 @@
 # More Comparisons
 
-<table width="660%">
+<table width="660" align="center">
   <tr>
     <td width="220" align="center">
       GaussianDreamer (CVPR 2024)
