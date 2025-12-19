@@ -1,10 +1,10 @@
 # More Comparisons
 
-<table style="width: 100%; table-layout: fixed; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="text-align: center; border: none;">GaussianDreamer (CVPR 2024)</td>
-    <td style="text-align: center; border: none;">GSGEN (CVPR 2024)</td>
-    <td style="text-align: center; border: none;">Ours</td>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">GaussianDreamer (CVPR 2024)</td>
+    <td width="33%" align="center">GSGEN (CVPR 2024)</td>
+    <td width="33%" align="center">Ours</td>
   </tr>
 </table>
 
