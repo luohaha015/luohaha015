@@ -1,14 +1,14 @@
 # More Comparisons
 
-<table width="735" align="center">
+<table width="738" align="center">
   <tr>
-    <td width="245" align="center">
+    <td width="246" align="center">
       GaussianDreamer (CVPR 2024)
     </td>
-    <td width="245" align="center">
+    <td width="246" align="center">
       GSGEN (CVPR 2024)
     </td>
-    <td width="245" align="center">
+    <td width="246" align="center">
       Ours
     </td>
   </tr>
